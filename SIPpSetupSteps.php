@@ -17,8 +17,8 @@ Download sipp3.3 source from https://sourceforge.net/projects/sipp/ in local sys
 Now copy the tar file from local to above server by using command :- scp -i /home/inextrix/devang_astpp.pem /home/inextrix/Downloads/sipp-3.3.tar.gz root@168.119.48.166://usr/src/ 
                                                      OR  
 (You can also download from github through git clone by using  https://github.com/prashantkumar1994/SIPpSetupRepo.git  link) 
- 
 
+(username :- prashantkumar1994   inex@1234    Email :- prashantkumarinextrix@gmail.com)
  
 
 Now Go to src directory by using command :-  cd /usr/src/ 
